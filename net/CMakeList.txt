@@ -1,0 +1,2 @@
+SET(SRC_LIST net.h net.cpp)
+ADD_EXECUTABLE(DynamicCast ${SRC_LIST})
