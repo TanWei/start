@@ -1,1 +1,6 @@
 长城
+set http_proxy=http://127.0.0.1:8889
+set https_proxy=http://127.0.0.1:8889
+
+export http_proxy=http://127.0.0.1:8889
+export https_proxy=http://127.0.0.1:8889
